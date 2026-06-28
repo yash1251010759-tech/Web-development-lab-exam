@@ -3,6 +3,8 @@ body{
     text-align: center;
     display:flex;
     flex-direction: column;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 table{
     align-items: center;
